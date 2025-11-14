@@ -16,7 +16,7 @@
 git config --global user.name "4441 Pavlov DS"
 git config --global user.email "danya.pavlov.03@mail.ru"
 
-
+1.jpg
 
 5. Личный удалённый репозиторий был клонирован на компьютер:
 
